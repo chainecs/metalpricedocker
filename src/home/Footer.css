@@ -1,0 +1,10 @@
+.blog-footer {
+  padding: 2.5rem 0;
+  color: #727272;
+  text-align: center;
+  background-color: #212429;
+  border-top: 0.05rem solid #212429;
+}
+.blog-footer p:last-child {
+  margin-bottom: 0;
+}

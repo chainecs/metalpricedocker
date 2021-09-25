@@ -1,0 +1,42 @@
+.container {
+  max-width: 960px;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+
+.underline {
+  width: 5rem;
+  height: 0.25rem;
+  background: rgb(45, 174, 224);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.underline-gold {
+  width: 3rem;
+  height: 0.25rem;
+  background: rgb(236, 191, 41);
+  margin-top: 7px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.underline-silver {
+  width: 3rem;
+  height: 0.25rem;
+  background: rgb(94, 92, 92);
+  margin-top: 7px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.underline-platinum {
+  width: 3rem;
+  height: 0.25rem;
+  background: rgb(175, 168, 168);
+  margin-top: 7px;
+  margin-left: auto;
+  margin-right: auto;
+}
